@@ -12,4 +12,8 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Update () {
 	
 	}
+
+	void func1() {
+		
+	}
 }
